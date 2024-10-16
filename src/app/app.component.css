@@ -1,0 +1,26 @@
+h1{
+    font-family: serif;
+    font-weight: 600 ;
+}
+
+table{
+    border-collapse: collapse;;
+}
+
+thead tr {
+    background-color: #1F75FE;
+}
+
+thead tr:nth-last-child(1){
+    background-color: #6495ED;
+}
+
+td, th {
+    border: 2px solid #AAAAAA;
+    width: 20%;
+    height: 50px;
+}
+
+/* tr:nth-child(even){
+    background-color: grey;
+} */
